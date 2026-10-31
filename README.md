@@ -64,11 +64,11 @@ Se alterar `RESOURCE_GROUP`, usar o mesmo nome em `CONFIRM_DESTROY`. O script va
 
 ## Vídeo da demonstração
 
-[Assistir ou baixar o vídeo — 3 minutos, 1080p](video/AMAZUL_DevOps_Sprint1.mp4)
+[Assistir no YouTube](https://youtu.be/BQV1CYI_7b8) · [Baixar o vídeo](video/AMAZUL_DevOps_Sprint1.mp4)
 
-O vídeo reúne a criação por Azure CLI, o container funcionando, Swagger, verificações e exclusão dos recursos. As legendas estão incorporadas. O arquivo no GitHub não substitui o link YouTube não listado exigido para o envio acadêmico. Esse link e o PDF final serão acrescentados após a publicação e revisão da entrega.
+Demonstração de 3 minutos: provisionamento com Azure CLI, execução da API em Docker, testes pelo Swagger e exclusão dos recursos.
 
-Trilha: **“Cipher”**, de Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100844)), sob [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Adaptações: trecho de três minutos, volume reduzido e entrada/saída suaves.
+Música: [“Cipher”, Kevin MacLeod](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100844) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), trecho editado.
 
 ## Referências técnicas
 
