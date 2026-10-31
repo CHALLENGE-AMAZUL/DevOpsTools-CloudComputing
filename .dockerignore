@@ -1,0 +1,12 @@
+.git
+.env
+.env.*
+target
+.idea
+.vscode
+collections
+*.md
+*.log
+.local
+video
+arquitetura
