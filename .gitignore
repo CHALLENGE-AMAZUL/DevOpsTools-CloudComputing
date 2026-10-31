@@ -1,0 +1,17 @@
+.local/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.zip
+target/
+build/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
